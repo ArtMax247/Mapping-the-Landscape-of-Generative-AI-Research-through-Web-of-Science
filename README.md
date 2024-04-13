@@ -1,0 +1,3 @@
+In the rapidly evolving field of generative artificial intelligence (AI), identifying key research themes and understanding their interconnections is crucial for academics, practitioners, and policymakers. This project aims to utilize the comprehensive Web of Science (WoS) database to search for publications related to generative AI. Through an analytical approach focused on keyword co-occurrence networks derived from author keywords, we will map the intellectual structure and identify the core themes and trends in generative AI research.
+
+With this project, we aim to understand the evolution of 'Generative AI' over the years and understand its emergence into different fields of study, by creating a co-occurrence matrix and network graph analysis.
